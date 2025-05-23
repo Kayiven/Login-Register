@@ -1,0 +1,55 @@
+.Welcome-Sign{
+ color: white;
+ font-family: cursive;
+ font-size: 40px;
+ margin-top: 218px;
+}
+.sub-t{
+ position: relative;
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 15px;
+ top: 29px;
+ margin-left: 6.1px;
+}
+input{
+ color: white;
+ border: 2px solid rgb(99, 99, 99);
+ outline: none;
+ font-family: cursive;
+ border: none;
+ background-color: #1E293B;
+ font-size: 18px;
+ padding-left: 0.3cm;
+ margin-top: 20PX;
+ border-radius: 8pX;
+ height: 35PX;
+ width: 252PX;
+}
+button {
+ color: white;
+ font-family: cursive;
+ font-size: 18px;
+ background: #2563EB;
+ border: none;
+ padding: 0.5rem 0.5rem;
+ border-radius: 8pX;
+ margin-top: 1.5rem;
+ width: 100PX;
+ font-weight: 700;
+ cursor: pointer;
+ transition: background-color 0.2s;
+}
+.loading{
+ position: absolute;
+ display: none;
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 20px;
+ margin-top: 35px;
+ margin-left: 47.5%;
+}
+a{
+ color: aqua;
+ text-decoration: none;
+}
